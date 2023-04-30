@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/evners/terraform-aws-s3-backend/compare/v0.1.0...v1.0.0) (2023-04-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* clean up project
+
+### Features
+
+* clean up project ([4dabe32](https://github.com/evners/terraform-aws-s3-backend/commit/4dabe326b5137370b74e26f2c714cb3528271e3b))
+
 ## 0.1.0 (2023-04-30)
 
 
